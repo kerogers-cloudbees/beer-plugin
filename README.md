@@ -1,6 +1,6 @@
 # Beer
 
-We all need beer from time to time
+We all need a beer from time to time
 
 See the [demo instance](https://ci.jenkins.io/beer/) in action. Read a few times to see different variations. 
 
